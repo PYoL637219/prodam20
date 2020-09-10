@@ -205,6 +205,11 @@ svg {
   vertical-align: middle;
 }
 
+png {
+  overflow: hidden;
+  vertical-align: middle;
+}
+
 table {
   border-collapse: collapse;
 }
