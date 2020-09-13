@@ -230,6 +230,8 @@ a.white {
 .form-group {
 	position: relative;
 	margin-bottom: 1.25rem;
+	opacity: 0;
+	/*hilangkan opacity untuk memunculkan modul form-group*/
 }
 
 .form-group.has-error.has-danger {
